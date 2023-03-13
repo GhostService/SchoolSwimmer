@@ -1,8 +1,7 @@
 # SchoolSwimmer
 A proxy made by students, for students.
 
-# Quick message to sysadmins: Nobody likes the blockers you put on our chromebooks. Honestly, if you want your students to like you, stop paying the blocker companies at least a year.
-
+# Quick message to sysadmins: Nobody likes the blockers you put on our chromebooks. Honestly, if you want your students to like you, stop paying the blocker companies and get your students Windows laptops.
 # Features
 
 SchoolSwimmer is a proxy developed by DapperLS based off of TitaniumNetwork's Ultraviolet. Games are brought to you by 3kh0.github.io
